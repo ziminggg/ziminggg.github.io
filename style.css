@@ -1,0 +1,85 @@
+
+.title-container{
+    height: 50vh;
+}
+
+.title-hello{
+    font-size: 3rem;
+    font-weight: 500;
+    font-family: 'ZCOOL KuaiLe', cursive;
+    color: white;
+}
+
+.title-name{
+    font-size: 1rem;
+    font-weight: 300;
+    font-family: 'ZCOOL KuaiLe', cursive;
+
+    position: relative;
+    top: 0rem;
+
+    color: white;
+
+}
+
+.title-tag{
+  font-size: 1rem;
+  font-weight:300;
+  font-family: 'ZCOOL KuaiLe', cursive;
+
+  position: relative;;
+  top: -0rem;
+  color: white;
+}
+
+.about-me-container {
+  width: 80vw;
+  height: 41vh;
+
+  position: relative;
+  top: 3rem;
+
+
+  margin-left: 10vw;
+
+  background-color: white;
+
+}
+
+.{
+  height: 20vw;
+  width: 20vw;
+  border-radius: 100%;
+
+}
+
+.about-me-text {
+  font-size: 1.2rem;
+  font-family: 'ZCOOL KuaiLe', cursive;
+
+  padding-left: 5% !important;
+  padding-right: 5%!important;
+  color: black;
+
+}
+
+.how-to-sleep-better-container{
+  width: 80vw;
+  height: 31vh;
+
+  position: relative;
+  top: 6rem;
+
+
+  margin-left: 10vw;
+
+  background-color: white;
+}
+
+.title-ending {
+      font-size: 1rem;
+      font-weight: 500;
+      font-family: 'ZCOOL KuaiLe', cursive;
+      color: white;
+
+  }
