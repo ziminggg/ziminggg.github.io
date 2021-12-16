@@ -1,6 +1,6 @@
 
 .title-container{
-    height: 50vh;
+    height: 60vh;
 }
 
 .title-hello{
@@ -28,28 +28,21 @@
   font-family: 'ZCOOL KuaiLe', cursive;
 
   position: relative;;
-  top: -0rem;
+  top: 0rem;
   color: white;
 }
 
 .about-me-container {
   width: 80vw;
-  height: 41vh;
+  height: 60vh;
 
   position: relative;
-  top: 3rem;
+  top: 0rem;
 
 
   margin-left: 10vw;
 
   background-color: white;
-
-}
-
-.{
-  height: 20vw;
-  width: 20vw;
-  border-radius: 100%;
 
 }
 
@@ -65,7 +58,7 @@
 
 .how-to-sleep-better-container{
   width: 80vw;
-  height: 31vh;
+  height: 45vh;
 
   position: relative;
   top: 6rem;
@@ -77,9 +70,14 @@
 }
 
 .title-ending {
+      height: 0;
       font-size: 1rem;
       font-weight: 500;
       font-family: 'ZCOOL KuaiLe', cursive;
       color: white;
+position: relative;
+top: 0rem;
+
+
 
   }
